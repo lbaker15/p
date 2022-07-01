@@ -120,8 +120,8 @@ body {
         align-items: center;
         writing-mode: unset;
         text-orientation: unset;
-        line-height: 60px;
-        font-size: 70px;
+        line-height: 12vh;
+        font-size: 10vh;
         letter-spacing: 4px;
         transform: scale(1, 1);
     }
