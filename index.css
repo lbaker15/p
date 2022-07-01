@@ -89,7 +89,7 @@ body {
     font-size: calc(35px + 3vw);
     transition: all 0.2s ease;
     line-height: calc(50px + 3.5vw);
-    letter-spacing: calc((35px + 3vw) / 15);
+    letter-spacing: calc((30px + 3vw) / 15);
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.7);
     writing-mode: vertical-rl;
@@ -161,7 +161,7 @@ body {
         text-orientation: mixed;
         padding-bottom: 25px;
         font-size: calc(20px + 7vw);
-        letter-spacing: calc((20px + 7vw) / 15);
+        letter-spacing: calc((20px + 7vw) / 20);
         transform: scale(-1, -1);
     }
     .image__link-in {
